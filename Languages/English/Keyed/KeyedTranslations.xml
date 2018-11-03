@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageData>
+
+  <WhileYoureUp>While You're Up</WhileYoureUp>
+  <WhileYoureUp.RememberPreviousJob>Remember Previous Job (may cause error messages in developer mode)</WhileYoureUp.RememberPreviousJob>
+  <WhileYoureUp.RememberPreviousJobTip>If enabled, colonists will resume their original work after completing a While You're Up hauling job. Can cause error messages in developer mode when they can't go back to that job, but these errors seem ignorable.</WhileYoureUp.RememberPreviousJobTip>
+  <WhileYoureUp.CpuUsage>Minimize CPU Usage</WhileYoureUp.CpuUsage>
+  <WhileYoureUp.CpuUsageTip>If enabled, colonists will look for While You're Up hauling jobs less aggressively, saving CPU.</WhileYoureUp.CpuUsageTip>
+  <WhileYoureUp.SkipWhenBleeding>Skip When Bleeding</WhileYoureUp.SkipWhenBleeding>
+  <WhileYoureUp.SkipWhenBleedingTip>If enabled, colonists who are bleeding will not look for While You're Up hauling jobs.</WhileYoureUp.SkipWhenBleedingTip>
+</LanguageData>

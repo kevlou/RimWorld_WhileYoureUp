@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>While You're Up [1.0]</name>
+	<author>kevlou</author>
+	<targetVersion>1.0.2059</targetVersion>
+	<description>"So long Bob, I'm heading back home for some food!"
+	
+"OK Jim.  Hey, while you're heading over there, mind hauling some of this wood we chopped?"
+	
+"Can't do it Bob, I'm cooking now.  More important than hauling."
+	
+"But Jim, you're literally walking from the forest back to where this wood needs to go.  Can't you just carry some of it while you're up?"
+	
+"Sorry Bob, I don't know the meaning of 'while you're up.'"
+	
+-------------------------
+	
+Before starting most jobs, your colonists will look for nearby objects that need to be hauled someplace near wherever they're already going.  If they can haul something useful without going out of their way, they'll do it, even if hauling is a low-priority task.
+
+RimWorld colonists sometimes do this in the base game; with this mod they'll find more opportunities to do so.
+
+Requires HugsLib.  Doesn't require a new save.
+Works fine with most mods, but if you have any that add new job types, those job types may not get the "haul first" treatment.
+
+Keep in mind:
+
+ - Opportunistic hauling only happens at the start of a job.  If your colonist must make a long trip in the middle of a job, they'll just make the trip like they always have.
+
+ - By the time a colonist has completed an opportunistic hauling job, someone else may have started doing the work they were going to do... which means it may no longer be important for them to be wherever they are.
+
+ - After completing their hauling job, colonists will attempt to resume their previous work. If they can't for any reason, you'll get an error message in Developer Mode. As far as I can tell these are ignorable, but there's a mod setting you can use to turn it off.
+ 
+ - If the game runs too slowly, While You're Up has an option in mod settings to search less aggressively, using less CPU.
+ 
+ - There's also an option in there to make bleeding colonists not look for these jobs (so they won't search for something to haul on their way to the hospital, for instance).
+	 </description>
+</ModMetaData>
